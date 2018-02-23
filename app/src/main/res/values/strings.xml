@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Morse</string>
+    <string name="point">.</string>
+    <string name="tiret">-</string>
+    <string name="espace">ESPACE</string>
+    <string name="slash">/</string>
+    <string name="effacer">EFFACER</string>
+    <string name="jouer">JOUER</string>
+    <string name="Alpha">Name</string>
+    <string name="Morse">Name</string>
+    <string name="back">Back-end par:</string>
+    <string name="auteurs">Raphael et Samuel</string>
+    <string name="back_end_et_interface_par">Back-end et Interface par :</string>
+</resources>
